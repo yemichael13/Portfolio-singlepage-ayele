@@ -308,7 +308,7 @@ const Home = () => {
             </div>
             
           </div>
-          <p>jgkeojeok</p>
+          <p>jgkeojeokjkooekr</p>
         
        </div>
 
